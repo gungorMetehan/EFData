@@ -5,7 +5,7 @@
 
 As a gamer who plays CS:GO / CS2 (Counter Strike: Global Offensive / 2), I also enjoy following matches of professional players/teams. I especially watch [Eternal Fire](https://eternalfire.gg/), the biggest team in Turkey. As someone interested in statistics, it would be inevitable for me not to be interested in data about CS players and teams. Therefore, I decided to create datasets containing statistics of the team and players I follow. Thus, a large dataset folder has been prepared for those interested in analyzing both EF and CS data.
 
-This dataset consists of statistics provided by hltv.org.
+This dataset consists of statistics provided by [hltv.org](https://www.hltv.org/).
 
 <p align="center"><img src="https://github.com/gungorMetehan/EFData/assets/102655648/d3149d82-38e3-481d-b4fd-9cd67abbc6dd" width="300" height="150">  <img src="https://github.com/gungorMetehan/EFData/assets/102655648/04b809f9-2447-4f1e-9941-440b6fc3e1eb" width="300" height="150"></p>
 <p align="center"><b>#forEF</b></p>
