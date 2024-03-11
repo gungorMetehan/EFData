@@ -8,7 +8,7 @@ As a gamer who plays CS:GO / CS2 (Counter Strike: Global Offensive / 2), I also 
 This dataset consists of statistics provided by hltv.org.
 
 <p align="center"><img src="https://github.com/gungorMetehan/EFData/assets/102655648/d3149d82-38e3-481d-b4fd-9cd67abbc6dd" width="300" height="150">  <img src="https://github.com/gungorMetehan/EFData/assets/102655648/04b809f9-2447-4f1e-9941-440b6fc3e1eb" width="300" height="150"></p>
-**#forEF**
+<p align="center"><b>#forEF</b></p>
 
 ## How to Import the Data Into R
 will be added.
