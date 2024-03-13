@@ -20,12 +20,13 @@ will be added.
 There are multiple data sets in this repo:
 1. `EF_world_ranking`: Eternal Fire World Ranking
 2. `EF_team_stats`: Eternal Fire Team Stats
-3. `EFA_team_stats`: Eternal Fire Academy Team Stats
-4. `XANTARES`: İsmailcan 'XANTARES' Dörtkardeş's Stats
-5. `woxic`: Özgür 'woxic' Eker's Stats
-6. `MAJ3R`: Engin 'MAJ3R' Küpeli's Stats
-7. `Calyx`: Buğra 'Calyx' Arkın's Stats
-8. `Wicadia`: Ali Haydar 'Wicadia' Yalçın's Stats
+3. `EFA_world_ranking`: Eternal Fire Academy Team World Ranking
+4. `EFA_team_stats`: Eternal Fire Academy Team Stats
+5. `XANTARES`: İsmailcan 'XANTARES' Dörtkardeş's Stats
+6. `woxic`: Özgür 'woxic' Eker's Stats
+7. `MAJ3R`: Engin 'MAJ3R' Küpeli's Stats
+8. `Calyx`: Buğra 'Calyx' Arkın's Stats
+9. `Wicadia`: Ali Haydar 'Wicadia' Yalçın's Stats
 
 ## Annotation
 I’m planning to edit the dataset folder regularly. Therefore, I am open to your requests and comments.
