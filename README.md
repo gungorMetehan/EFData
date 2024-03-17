@@ -11,7 +11,10 @@ This dataset consists of statistics provided by [hltv.org](https://www.hltv.org/
 <p align="center"><b>#forEF</b></p>
 
 ## How to Import the Data Into R
-will be added.
+```
+# importing XANTARES dataset to R (Windows)
+XANTARES <- read.csv("https://raw.githubusercontent.com/gungorMetehan/EFData/main/XANTARES.csv")
+```
 
 ## How to Import the Data Into Python
 will be added.
