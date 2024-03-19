@@ -8,7 +8,7 @@ As a gamer who plays CS:GO / CS2 (Counter Strike: Global Offensive / 2), I also 
 This dataset consists of statistics provided by [hltv.org](https://www.hltv.org/).
 
 <p align="center"><img src="https://github.com/gungorMetehan/EFData/assets/102655648/d3149d82-38e3-481d-b4fd-9cd67abbc6dd" width="300" height="150">  <img src="https://github.com/gungorMetehan/EFData/assets/102655648/04b809f9-2447-4f1e-9941-440b6fc3e1eb" width="300" height="150"></p>
-<p align="center"><b>#forEF</b></p>
+<p align="center"><b>#forEF - #battleforEF</b></p>
 
 ## How to Import the Data Into R
 ```
@@ -17,7 +17,11 @@ XANTARES <- read.csv("https://raw.githubusercontent.com/gungorMetehan/EFData/mai
 ```
 
 ## How to Import the Data Into Python
-will be added.
+```
+# importing EF_world_ranking dataset to Python (Windows)
+import pandas as pd
+EF_world_ranking = pd.read_csv("https://raw.githubusercontent.com/gungorMetehan/EFData/main/EF_world_ranking.csv")
+```
 
 ## What’s Inside
 There are multiple data sets in this repo:
