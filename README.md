@@ -34,6 +34,8 @@ There are multiple data sets in this repo:
 7. `MAJ3R`: Engin 'MAJ3R' Küpeli's Stats
 8. `Calyx`: Buğra 'Calyx' Arkın's Stats
 9. `Wicadia`: Ali Haydar 'Wicadia' Yalçın's Stats
+10. `imoRR`: Ömer 'imoRR' Karataş's Stats
+11. `paz`: Ahmet 'paz' Karahoca's Stats
 
 ## Annotation
 I’m planning to edit the dataset folder regularly. Therefore, I am open to your requests and comments.
